@@ -1,0 +1,497 @@
+# depslib dependency file v1.0
+1298801658 source:/home/sl/Code/graphical/coaster/src/camera.cpp
+	"camera.h"
+
+1298801658 /home/sl/Code/graphical/coaster/src/camera.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"cwmtx.h"
+	<math.h>
+	"util.h"
+
+1337415091 /usr/include/GL/gl.h
+	"gl_mangle.h"
+	<stdlib.h>
+	<windows.h>
+	<GL/glext.h>
+
+1337415091 /usr/include/GL/gl_mangle.h
+
+1332996302 /usr/include/stdlib.h
+	<features.h>
+	<stddef.h>
+	<bits/waitflags.h>
+	<bits/waitstatus.h>
+	<xlocale.h>
+	<sys/types.h>
+	<alloca.h>
+	<bits/stdlib.h>
+	<bits/stdlib-ldbl.h>
+
+1332996280 /usr/include/features.h
+	<sys/cdefs.h>
+	<gnu/stubs.h>
+
+1332996321 /usr/include/sys/cdefs.h
+	<features.h>
+	<bits/wordsize.h>
+
+1332996302 /usr/include/bits/wordsize.h
+
+1332996280 /usr/include/gnu/stubs.h
+	<bits/wordsize.h>
+	<gnu/stubs-32.h>
+	<gnu/stubs-64.h>
+
+1333051650 /usr/include/gnu/stubs-32.h
+
+1332996372 /usr/include/gnu/stubs-64.h
+
+1332996316 /usr/include/bits/waitflags.h
+
+1332996316 /usr/include/bits/waitstatus.h
+	<endian.h>
+
+1332996311 /usr/include/endian.h
+	<features.h>
+	<bits/endian.h>
+	<bits/byteswap.h>
+
+1332996311 /usr/include/bits/endian.h
+
+1332996311 /usr/include/bits/byteswap.h
+	<bits/wordsize.h>
+
+1332996282 /usr/include/xlocale.h
+
+1332996316 /usr/include/sys/types.h
+	<features.h>
+	<bits/types.h>
+	<time.h>
+	<stddef.h>
+	<endian.h>
+	<sys/select.h>
+	<sys/sysmacros.h>
+	<bits/pthreadtypes.h>
+
+1332996316 /usr/include/bits/types.h
+	<features.h>
+	<bits/wordsize.h>
+	<bits/typesizes.h>
+
+1332996316 /usr/include/bits/typesizes.h
+
+1332996312 /usr/include/time.h
+	<features.h>
+	<stddef.h>
+	<bits/time.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<xlocale.h>
+
+1332996312 /usr/include/bits/time.h
+	<bits/types.h>
+	<bits/types.h>
+	<bits/timex.h>
+
+1332996312 /usr/include/bits/timex.h
+
+1332996321 /usr/include/sys/select.h
+	<features.h>
+	<bits/types.h>
+	<bits/select.h>
+	<bits/sigset.h>
+	<time.h>
+	<bits/time.h>
+	<bits/select2.h>
+
+1332996321 /usr/include/bits/select.h
+	<bits/wordsize.h>
+
+1332996300 /usr/include/bits/sigset.h
+
+1332996321 /usr/include/bits/select2.h
+
+1332996316 /usr/include/sys/sysmacros.h
+	<features.h>
+
+1332996316 /usr/include/bits/pthreadtypes.h
+	<bits/wordsize.h>
+
+1332996302 /usr/include/alloca.h
+	<features.h>
+	<stddef.h>
+
+1332996302 /usr/include/bits/stdlib.h
+
+1332996302 /usr/include/bits/stdlib-ldbl.h
+
+1337415091 /usr/include/GL/glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1332996302 /usr/include/inttypes.h
+	<features.h>
+	<stdint.h>
+	<stddef.h>
+
+1332996302 /usr/include/stdint.h
+	<features.h>
+	<bits/wchar.h>
+	<bits/wordsize.h>
+
+1332996311 /usr/include/bits/wchar.h
+
+1337415091 /usr/include/GL/glu.h
+	"glu_mangle.h"
+	<GL/gl.h>
+
+1337415091 /usr/include/GL/glu_mangle.h
+
+1327092258 /usr/include/GL/glut.h
+	"freeglut_std.h"
+
+1327092258 /usr/include/GL/freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1298801658 /home/sl/Code/graphical/coaster/lib/cwmtx-0.6.2/cwmtx.h
+	"matrix.h"
+	"smatrix.h"
+	"vector.h"
+	"svector.h"
+	"quatern.h"
+	"coordsys.h"
+
+1298801658 /home/sl/Code/graphical/coaster/lib/cwmtx-0.6.2/matrix.h
+	<iostream>
+	<iomanip>
+
+1298801658 /home/sl/Code/graphical/coaster/lib/cwmtx-0.6.2/smatrix.h
+	"matrix.h"
+
+1298801658 /home/sl/Code/graphical/coaster/lib/cwmtx-0.6.2/vector.h
+	<cmath>
+	"matrix.h"
+
+1298801658 /home/sl/Code/graphical/coaster/lib/cwmtx-0.6.2/svector.h
+	"vector.h"
+	"smatrix.h"
+
+1298801658 /home/sl/Code/graphical/coaster/lib/cwmtx-0.6.2/quatern.h
+	"vector.h"
+	"svector.h"
+
+1298801658 /home/sl/Code/graphical/coaster/lib/cwmtx-0.6.2/coordsys.h
+	"smatrix.h"
+	"quatern.h"
+	"svector.h"
+
+1332996297 /usr/include/math.h
+	<features.h>
+	<bits/huge_val.h>
+	<bits/huge_valf.h>
+	<bits/huge_vall.h>
+	<bits/inf.h>
+	<bits/nan.h>
+	<bits/mathdef.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls.h>
+	<bits/mathinline.h>
+	<bits/math-finite.h>
+
+1332996297 /usr/include/bits/huge_val.h
+	<endian.h>
+
+1332996297 /usr/include/bits/huge_valf.h
+
+1332996297 /usr/include/bits/huge_vall.h
+
+1332996297 /usr/include/bits/inf.h
+
+1332996297 /usr/include/bits/nan.h
+	<endian.h>
+
+1332996297 /usr/include/bits/mathdef.h
+	<bits/wordsize.h>
+
+1332996297 /usr/include/bits/mathcalls.h
+
+1332996297 /usr/include/bits/mathinline.h
+	<bits/wordsize.h>
+
+1332996297 /usr/include/bits/math-finite.h
+
+1298801657 /home/sl/Code/graphical/coaster/src/util.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<time.h>
+	<vector>
+	"cwmtx.h"
+
+1332996308 /usr/include/stdio.h
+	<features.h>
+	<stddef.h>
+	<bits/types.h>
+	<libio.h>
+	<stdarg.h>
+	<bits/stdio_lim.h>
+	<bits/sys_errlist.h>
+	<getopt.h>
+	<bits/stdio.h>
+	<bits/stdio2.h>
+	<bits/stdio-ldbl.h>
+
+1332996308 /usr/include/libio.h
+	<_G_config.h>
+	<stdarg.h>
+	<sys/cdefs.h>
+	<bits/stdio-lock.h>
+	<shlib-compat.h>
+	<bits/libio-ldbl.h>
+
+1332996308 /usr/include/_G_config.h
+	<bits/types.h>
+	<stddef.h>
+	<wchar.h>
+	<gconv.h>
+
+1332996311 /usr/include/wchar.h
+	<features.h>
+	<stdio.h>
+	<stdarg.h>
+	<bits/wchar.h>
+	<stddef.h>
+	<wctype.h>
+	<xlocale.h>
+	<xlocale.h>
+	<xlocale.h>
+	<wctype.h>
+	<bits/wchar2.h>
+	<bits/wchar-ldbl.h>
+
+1332996323 /usr/include/wctype.h
+	<features.h>
+	<bits/types.h>
+	<wchar.h>
+	<endian.h>
+	<xlocale.h>
+
+1332996311 /usr/include/bits/wchar2.h
+
+1332996311 /usr/include/bits/wchar-ldbl.h
+
+1332996281 /usr/include/gconv.h
+	<features.h>
+	<wchar.h>
+	<stddef.h>
+
+1332996308 /usr/include/bits/stdio-lock.h
+	<bits/libc-lock.h>
+	<lowlevellock.h>
+
+1332996280 /usr/include/bits/libc-lock.h
+	<pthread.h>
+	<stddef.h>
+	<lowlevellock.h>
+	<tls.h>
+	<pthread-functions.h>
+	<bp-sym.h>
+
+1332996337 /usr/include/pthread.h
+	<features.h>
+	<endian.h>
+	<sched.h>
+	<time.h>
+	<bits/pthreadtypes.h>
+	<bits/setjmp.h>
+	<bits/wordsize.h>
+
+1332996316 /usr/include/sched.h
+	<features.h>
+	<bits/types.h>
+	<stddef.h>
+	<time.h>
+	<bits/sched.h>
+
+1332996316 /usr/include/bits/sched.h
+
+1332996298 /usr/include/bits/setjmp.h
+	<bits/wordsize.h>
+
+1332996308 /usr/include/bits/libio-ldbl.h
+
+1332996304 /usr/include/bits/stdio_lim.h
+
+1332996308 /usr/include/bits/sys_errlist.h
+
+1332996316 /usr/include/getopt.h
+	<ctype.h>
+
+1332996291 /usr/include/ctype.h
+	<features.h>
+	<bits/types.h>
+	<endian.h>
+	<xlocale.h>
+
+1332996308 /usr/include/bits/stdio.h
+
+1332996308 /usr/include/bits/stdio2.h
+
+1332996308 /usr/include/bits/stdio-ldbl.h
+
+1298801658 source:/home/sl/Code/graphical/coaster/src/coaster.cpp
+	"coaster.h"
+
+1298801657 /home/sl/Code/graphical/coaster/src/coaster.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<vector>
+	<math.h>
+	"util.h"
+	"cwmtx.h"
+	"spline.h"
+	"camera.h"
+
+1298801657 /home/sl/Code/graphical/coaster/src/spline.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"cwmtx.h"
+	"util.h"
+	<vector>
+	<ctype.h>
+	<string.h>
+
+1332996311 /usr/include/string.h
+	<features.h>
+	<stddef.h>
+	<xlocale.h>
+	<bits/string.h>
+	<bits/string2.h>
+	<bits/string3.h>
+
+1332996311 /usr/include/bits/string.h
+
+1332996311 /usr/include/bits/string2.h
+	<endian.h>
+	<bits/types.h>
+	<stdlib.h>
+
+1332996311 /usr/include/bits/string3.h
+
+1298801657 source:/home/sl/Code/graphical/coaster/src/gfx.cpp
+	"gfx.h"
+
+1298801658 /home/sl/Code/graphical/coaster/src/gfx.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<pic.h>
+	"skybox.h"
+	"coaster.h"
+
+1298801658 /home/sl/Code/graphical/coaster/lib/libpicio_src/include/pic.h
+	<stdio.h>
+
+1298801657 /home/sl/Code/graphical/coaster/src/skybox.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	"util.h"
+	"gfx.h"
+
+1298801657 source:/home/sl/Code/graphical/coaster/src/input.cpp
+	"input.h"
+
+1298801658 /home/sl/Code/graphical/coaster/src/input.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<math.h>
+	"util.h"
+	"coaster.h"
+	"gfx.h"
+
+1298801658 source:/home/sl/Code/graphical/coaster/src/main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<pic.h>
+	"gfx.h"
+	"input.h"
+	"util.h"
+	"skybox.h"
+	"coaster.h"
+
+1298801657 source:/home/sl/Code/graphical/coaster/src/skybox.cpp
+	"skybox.h"
+
+1298801658 source:/home/sl/Code/graphical/coaster/src/spline.cpp
+	"spline.h"
+
+1298801657 source:/home/sl/Code/graphical/coaster/src/uitl.cpp
+	"util.h"
+
